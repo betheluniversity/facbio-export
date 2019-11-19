@@ -1,0 +1,3 @@
+requests
+dataset
+cx_Oracle

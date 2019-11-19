@@ -1,0 +1,5 @@
+config = {
+    'BIO_URL': '',
+    'TABLE_NAME': '',
+    'BANNER_CONSTR': '',
+}
